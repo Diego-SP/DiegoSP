@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>el horario</title>
+    <style>
+      table, th, td {
+        border: 1px solid black;
+        border-collapse: collapse;
+      }
+    </style>
+
+  </head>
+  <body>
+    <table>
+    <caption>Horario</caption>
+    <thead>
+        <tr>
+            <th scope="col">Lunes</th>
+            <th scope="col">Martes</th>
+            <th scope="col">Miércoles</th>
+            <th scope="col">Jueves</th>
+            <th scope="col">Viernes</th>
+            
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="background-color: #63E930">Donuts</td>
+            <td>3000€</td>
+            <td>6000</td>
+        </tr>
+        <tr>
+            <td rowspan="5">...</td>
+            <td colspan="5">no entiendo</td>
+
+        </tr>
+        <tr>
+
+            <td>e</td>
+            <td>e</td>
+        </tr>
+    </tbody>
+    </table>
+  </body>
+</html>
