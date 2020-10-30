@@ -21,7 +21,7 @@
   <body style="width: 300px;">
 
     <div style="position: fixed; top: 10px; right:10px">
-    <iframe src="https://open.spotify.com/embed/playlist/5fuSY8wLyoXj8BVsAR12HU" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+    <iframe src="https://open.spotify.com/track/0L7zm6afBEtrNKo6C6Gj08?si=Jw1FmZAcTRCVsGUiB1PPWg" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
     </div>
       
 <p1>Faster than a bullet
@@ -74,10 +74,10 @@ Pain! Pain! Killer! Killer!</p9>
 <p10>Can't stop the painkiller
 Pain</p10>
 
-    <img src="https://images-na.ssl-images-amazon.com/images/I/71cNZZ2uR1L._SL1043_.jpg" width="600" alt="">
+    
 
 
 
-    <iframe width="560" height="315" src="https://www.youtube.com/watch?v=4s1gBIVOTtk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </body>
 </html>
