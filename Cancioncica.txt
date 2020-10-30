@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Judas Priest - Painkiller</title>
+    <style>
+    @font-face {
+      font-family: "MiFuente";
+      src: url("../..fonts/Hal.ttf");
+    }
+
+    * {
+      font-family: "MiFuente";
+    }
+
+    p {
+      font-size: 1.3em;
+    }
+    </style>
+  </head>
+  <body style="width: 300px;">
+
+    <div style="position: fixed; top: 10px; right:10px">
+    <iframe src="https://open.spotify.com/embed/playlist/5fuSY8wLyoXj8BVsAR12HU" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+    </div>
+      
+<p1>Faster than a bullet
+Terrifying scream
+Enraged and full of anger
+He is half man and half machine
+Rides the metal monster
+Breathing smoke and fire
+Closing in with vengeance soaring high</p1>
+<p2>He is the painkiller
+This is the painkiller</p2>
+
+<p3>Planets devastated
+Mankind's on its knees
+A savior comes from out the skies
+In answer to their pleas
+Through boiling clouds if thunder
+Blasting bolts of steel
+Evils going under deadly wheels</p3>
+
+<p4>He is the painkiller
+This is the painkiller</p4>
+
+<p5>Faster then a laser bullet
+Louder than an atom bomb
+Chromium plated boiling metal
+Brighter than a thousand suns</p5>
+
+<p6>Flying high on rapture
+Stronger free and brave
+Nevermore encaptured
+They've been brought back from the grave
+With mankind resurrected
+Forever to survive
+Returns from Armageddon to the skies</p6>
+
+<p7>He is the painkiller
+This is the painkiller
+Wings of steel painkiller
+Deadly wheels painkiller</p7>
+
+<p8>He is the painkiller
+This is the painkiller
+He is the painkiller
+This is the painkiller</p8>
+
+<p9>Pain! Pain! Killer! Killer!
+Pain! Pain! Killer! Killer!</p9>
+
+<p10>Can't stop the painkiller
+Pain</p10>
+
+    <img src="https://images-na.ssl-images-amazon.com/images/I/71cNZZ2uR1L._SL1043_.jpg" width="600" alt="">
+
+
+
+    <iframe width="560" height="315" src="https://www.youtube.com/watch?v=4s1gBIVOTtk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </body>
+</html>
