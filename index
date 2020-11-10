@@ -1,10 +1,11 @@
-<html>
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
   <head>
-    <title></title>
-    <meta content="">
-    <style></style>
+    <meta charset="utf-8">
+    <title>Página web con ejemplos de TICO</title>
   </head>
   <body>
-  <h1>test</h1>
-  </body>
-</html>
+    <h1>Página web con ejemplos de TICO</h1>
+    <p>
+      Esta es una página web con ejemplos y prácticas para la asignatura de TICO
+    </p>
